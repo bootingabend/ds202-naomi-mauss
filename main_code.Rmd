@@ -1,0 +1,8 @@
+---
+  title: "Yearly Vacant Housing Units"
+author: "Naomi"
+date: "2025-02-05"
+output: html_document
+---
+
+This is a practice new file.
